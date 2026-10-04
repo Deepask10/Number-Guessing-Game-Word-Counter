@@ -1,0 +1,4 @@
+Python is easy to learn.
+Python is powerful and Python is popular.
+Learning Python is fun.
+Python helps beginners learn programming.
